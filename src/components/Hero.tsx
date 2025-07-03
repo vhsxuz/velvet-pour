@@ -90,8 +90,6 @@ const Hero = () => {
 		/>
 		
 		<div className="body">
-		 {/* <img src="/images/arrow.png" alt="arrow" className="arrow" /> */}
-		 
 		 <div className="content">
 			<div className="space-y-5 hidden md:block">
 			 <p>Cool. Crisp. Classic.</p>
